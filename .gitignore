@@ -1,0 +1,14 @@
+# Logs
+logs/
+*.log
+
+# Dependency directories
+node_modules/
+.npm
+
+# Build output
+.next/
+out/
+
+# env
+.env.local

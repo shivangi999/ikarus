@@ -1,0 +1,42 @@
+{
+  "name": "my-nextjs-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@next-tools/dynamic": "^0.0.11",
+    "@react-three/drei": "^9.105.6",
+    "@react-three/fiber": "^8.16.3",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "aws-sdk": "^2.1614.0",
+    "axios": "^1.6.8",
+    "boostrap": "^2.0.0",
+    "bootstrap": "^5.3.3",
+    "cdbreact": "^1.5.19",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "flatted": "^3.3.1",
+    "mysql": "^2.18.1",
+    "next": "14.2.3",
+    "react": "^18",
+    "react-bootstrap": "^2.10.2",
+    "react-dom": "^18",
+    "react-router-dom": "^6.23.1",
+    "react-scripts": "^5.0.1",
+    "three": "^0.164.1",
+    "uuid": "^9.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3"
+  }
+}
